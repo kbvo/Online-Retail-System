@@ -1,3 +1,5 @@
 *.o
 amazon
 hw2_tests/
+.DS_Store
+.vscode/
