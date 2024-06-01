@@ -27,8 +27,8 @@ int main(int argc, char* argv[])
     }
 
     /****************
-     * Declare your derived DataStore object here replacing
-     *  DataStore type to your derived type
+     * Declare derived DataStore object here replacing
+     *  DataStore type to derived type
      ****************/
     MyDataStore ds;
 
