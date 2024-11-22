@@ -12,7 +12,6 @@
  * A derived version of the DataStore can provide other services as well but
  * must support those below
  *
- * DO NOT EDIT
  */
 
 
