@@ -11,8 +11,7 @@ std::string convToLower(std::string src)
     return src;
 }
 
-/** Complete the code to convert a string containing a rawWord
-    to a set of words **/
+
 std::set<std::string> parseStringToWords(string rawWords)
 {
     set<string> myKeywords;
@@ -51,10 +50,6 @@ std::set<std::string> parseStringToWords(string rawWords)
     
     return myKeywords;
 }
-
-/**************************************************
- * COMPLETED
- **************************************************/
 
 // Used from http://stackoverflow.com/questions/216823/whats-the-best-way-to-trim-stdstring
 // trim from start
